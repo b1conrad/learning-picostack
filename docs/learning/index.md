@@ -1,4 +1,9 @@
 # Learning materials
 
-- [People and Machines](PeopleAndMachines.html)
+## Chapters
+
+* Programming
+* Sacrament Meeting
+* [People and Machines](PeopleAndMachines.html)
+* Wovyn device
 
