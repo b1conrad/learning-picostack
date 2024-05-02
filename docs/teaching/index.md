@@ -4,5 +4,5 @@
 
 * [Programming](Programming.html)
 * Sacrament Meeting
-* Wovyn device
+* [Wovyn device](WovynDevice.html)
 
