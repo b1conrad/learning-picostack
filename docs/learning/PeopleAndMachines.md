@@ -1,4 +1,4 @@
-# Machines vs People
+# People and Machines
 
 
 ## Invention
