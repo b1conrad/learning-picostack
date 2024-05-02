@@ -1,4 +1,8 @@
 # Teaching materials
 
-- [Programming](Programming.html)
+## Teachers’ Guides
+
+* [Programming](Programming.html)
+* Sacrament Meeting
+* Wovyn device
 
