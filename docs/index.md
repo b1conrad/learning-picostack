@@ -1,7 +1,7 @@
 # Learning PicoStack
 
-[Learning](learning/index.md)
+[Learning](learning/index.html)
 and
-[Teaching](teaching/index.md)
+[Teaching](teaching/index.html)
 materials that support 
 [PicoStack](https://PicoStack.org/)
