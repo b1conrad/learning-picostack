@@ -14,5 +14,5 @@ Other tools can be set in motion and then run by themselves.
 
 ## Exercises
 
-1. Think of two or three tools that need your continual attention while you are using them.
-2. Think of two or three tools that you can start in motion and then they operate themselves.
+1. Tools that need your continual attention while you are using them: a hammer, a bicycle, an automobile.
+2. Tools that you can start in motion and then they operate themselves: a dishwasher, an oven, a clothes dryer.
