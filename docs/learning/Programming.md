@@ -41,9 +41,6 @@ That is called “the halting problem“.
 It depends on how you wrote the program. It depends on what you wanted to happen. 
 
 
-## 
-
-
 ## Exercises
 
 
