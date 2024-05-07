@@ -66,6 +66,11 @@ People program machines, and then they or others operate them. Think: a web appl
 
 You will learn how to program web applications, and you probably already know how to operate them.
 
+## Exercises
+
+1. Think of two or three tools that need your continual attention while you are using them.
+2. Think of two or three tools that you can start in motion and then they operate themselves.
+
 
 ## Future
 
