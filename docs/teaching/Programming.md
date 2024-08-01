@@ -6,7 +6,7 @@ Have you ever planned a meeting? Written instructions for crocheting something? 
 
 Programming. Programming. Programming.
 
-Humans equally carry out programs: conduct a meeting according to an agenda, crocheting something, shopping with a list, following your boss’s instructions, and completing a homework assignment.
+Humans equally carry out programs: conducting a meeting according to an agenda, crocheting something, shopping with a list, following your boss’s instructions, and completing a homework assignment.
 
 The point of this lesson is to demystify the idea of programming. Everyone does it and anyone can do it.
 
