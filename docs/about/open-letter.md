@@ -1,6 +1,6 @@
 # Context: a blog post from Phil Windley
 
-I follow [Phil Windley's Technometria](https://www.windley.com/), meaning that I arrange to be notified (using [RSS](https://aboutfeeds.com/) when he publishes a new post, and 
+I follow [Phil Windley's Technometria](https://www.windley.com/), meaning that I arrange to be notified (using [RSS](https://aboutfeeds.com/)) when he publishes a new post, and 
 when that happens, I eagerly read and attempt to understand it.
 
 ## Phil's blog post: [Identity for the Pico Engine](https://www.windley.com/archives/2026/07/identity_for_the_pico_engine.shtml)
