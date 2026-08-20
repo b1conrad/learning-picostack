@@ -16,8 +16,8 @@ Quick life story (highlights from [resume](https://b1conrad.github.io/resume/)):
 
 ## Intended audience: homeschoolers
 
-Specifically written with members of [The Church of Jesus Christ of Latter-day Saints](https://ChurchOfJesusChrist.org/) in mind,
+Specifically written with members of The Church of Jesus Christ of Latter-day Saints in mind,
 but adaptation is straight-forward.
 
-## Notes
-- This is not an official website of The Church of Jesus Christ of Latter-day Saints.
+## Disclaimer
+- This is not an official website of [The Church of Jesus Christ of Latter-day Saints](https://ChurchOfJesusChrist.org/).
