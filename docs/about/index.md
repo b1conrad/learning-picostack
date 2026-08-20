@@ -9,7 +9,7 @@ Quick life story (highlights from [resume](https://b1conrad.github.io/resume/)):
 - earned a Master's degree at the University of Arizona in Tucson
 - taught Computer Science at the University of Lethbridge, Alberta
 - worked as a programmer at WordPerfect Corporation in Provo, Utah
-- finished a PhD dissertation in 1975 (but failed to defend it)
+- finished a [PhD dissertation](https://sanbachs.net/bruce/thesis/) in 1975 (but failed to defend it)
 - founded and crashed a dot-com company
 - worked as a programmer in educational support software in Salt Lake City, Utah
 - conducted research using picos in Provo, Utah
