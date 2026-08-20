@@ -19,5 +19,9 @@ Quick life story (highlights from [resume](https://b1conrad.github.io/resume/)):
 Specifically written with members of The Church of Jesus Christ of Latter-day Saints in mind,
 but adaptation is straight-forward.
 
+## Question: why isn't everyone a programmer?
+
+Is it because it is too hard? Is it because they don't want to?
+
 ## Disclaimer
 - This is not an official website of [The Church of Jesus Christ of Latter-day Saints](https://ChurchOfJesusChrist.org/).
