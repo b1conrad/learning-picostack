@@ -71,7 +71,8 @@ Type "repeat 5 [ square rt 72 ]" and press the Enter key.
 
 <img width="620" height="634" alt="Screenshot 2026-08-22 at 10 25 25" src="https://github.com/user-attachments/assets/2eb36b1d-b56a-4eb3-9ee5-297761f9db53" />
 
-## Free exercises
-Play.
-
-If you get stuck, ask someone for help.
+## Exercises
+1. In program one, were you operating the turtle or programming it?
+2. What about in program three?
+3. And in program four?
+4. Play. If you get stuck, ask someone for help.
