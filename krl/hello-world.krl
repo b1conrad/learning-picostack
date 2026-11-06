@@ -4,5 +4,15 @@ ruleset hello-world {
       Hello World program in KRL
     >>
     author "Bruce Conrad"
+    shares hello
+  }
+  global {
+    /**
+     * Say hello.
+     * @returns String "hello message"
+     */
+    function hello() {
+      "Hello World!"
+    }
   }
 }
