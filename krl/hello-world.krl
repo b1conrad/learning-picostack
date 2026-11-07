@@ -11,7 +11,7 @@ ruleset hello-world {
      * Say hello.
      * @returns String "hello message"
      */
-    function hello() {
+    hello = function() {
       "Hello World!"
     }
   }
