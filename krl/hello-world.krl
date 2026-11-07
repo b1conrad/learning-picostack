@@ -7,6 +7,7 @@ ruleset hello-world {
     shares hello
   }
   global {
+
     /**
      * Say hello.
      * @returns String "hello message"
